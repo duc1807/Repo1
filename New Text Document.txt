@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 okokok j
 
 nkn
+=======
+ok roi
+>>>>>>> 25a6db06e0682a811a40da48a8251e57980ab289
